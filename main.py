@@ -1,5 +1,5 @@
 #Number Guessing Game Objectives:
-
+import logo from art
 # Include an ASCII art logo.
 # Allow the player to submit a guess for a number between 1 and 100.
 # Check user's guess against actual answer. Print "Too high." or "Too low." depending on the user's answer. 
